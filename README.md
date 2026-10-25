@@ -1,9 +1,9 @@
 # 五术象数录
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
 
-> 本仓库整理内容采用 **CC BY 4.0（知识共享署名 4.0 国际许可协议）**
-> 协议摘要：您可以自由共享、改编本仓库整理的资料；分发、二次加工时，**必须标注来源**。古籍原文大多已进入公有领域，协议仅适用于本仓库的整理汇编成果。
+> 本仓库整理内容采用 **CC BY-NC-SA 4.0（知识共享 署名-非商业性使用-相同方式共享 4.0 国际许可协议）**。
+> 您可以自由分享、改编本仓库整理的资料；须**标注来源（BY）**、**不得用于商业目的（NC）**、改编作品须以**相同协议（SA）** 分发。古籍原文大多已进入公有领域，协议仅适用于本仓库的整理汇编成果。
 
 一个以传统「山、医、命、相、卜」五术为骨架的术数象数知识库。本库不做原文转抄，而是把古籍、原典与授课资料重构成**可查、可练、可验证**的体系：每一门都从「板块0 · 学习路径」出发，按板块递进，落到操作流程、自检清单与案例复盘。
 
@@ -37,7 +37,7 @@
 │   ├── 05.07.择吉/               #   18 篇
 │   └── 05.08.小六壬/             #    7 篇
 ├── 06.他知道哪个方向风来/        # 9 部跨体系专题手册
-├── LICENSE                       # CC BY 4.0 协议全文
+├── LICENSE                       # CC BY-NC-SA 4.0 协议全文
 └── README.md
 ```
 
@@ -91,5 +91,7 @@
 本仓库收录古籍、文献资料，仅作为传统文化、文史资料整理存档，**不构成任何诊疗、命理、风水方面的指导建议**。
 相关内容仅供文史、传统文化研究参考，请理性看待。
 
+- 需说明的是：本仓库全部文件由公开或原始资料收集而来，并经 AI 工具重新归纳、整理与结构化；整体格式与大纲参考了[「庚戊学堂」](https://academy.gengxutang.cn/learn)的学习模块组织方式，并在此基础上增补了 README 头部板块。所据古籍原书（含 PDF/EPUB 等）不在本仓库内，本仓库仅收录整理笔记，其著作权状况依各自法律而定，本仓库仅对**整理汇编成果**采用下述协议。
+
 ## 📜 完整协议
-[CC BY 4.0 知识共享署名 4.0 国际许可协议](https://creativecommons.org/licenses/by/4.0/deed.zh)（全文见 [LICENSE](LICENSE)）
+[CC BY-NC-SA 4.0 许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)（全文见 [LICENSE](LICENSE)）
