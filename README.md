@@ -1,4 +1,4 @@
-# 五术象数录
+# 占卜维基（Divination-Wiki）
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
 
@@ -13,7 +13,7 @@
 ## 目录结构
 
 ```
-五术象数录/
+Divination-Wiki/
 ├── 00.缘起/                      # 3 篇：三部小说的精读笔记，本库的起点
 ├── 01.山/
 │   └── 01.01.拳法/               # 35 篇：传统拳法与导引养生
