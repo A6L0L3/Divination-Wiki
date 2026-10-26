@@ -1,4 +1,4 @@
-# 占卜维基（Divination-Wiki）
+# 山医命相卜（Shan-Yi-Ming-Xiang-Bu）
 
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/deed.zh)
 
@@ -13,7 +13,7 @@
 ## 目录结构
 
 ```
-Divination-Wiki/
+Shan-Yi-Ming-Xiang-Bu/
 ├── 00.缘起/                      # 3 篇：三部小说的精读笔记，本库的起点
 ├── 01.山/                        # 35 篇：山术五支（玄典·丹法·拳法·食饵·符咒）
 │   ├── 01.01.玄典/               #    0 篇：目录已建，内容待补
